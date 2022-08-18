@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\LinkShorteningChanges\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
